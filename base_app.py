@@ -24,7 +24,8 @@
 # Streamlit dependencies
 from operator import index
 import streamlit as st
-import joblib ,os
+import joblib 
+import os
 from PIL import Image
 
 # Data dependencies
